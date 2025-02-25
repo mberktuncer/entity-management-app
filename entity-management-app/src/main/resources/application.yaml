@@ -4,5 +4,5 @@ spring:
       host: 127.0.0.1
       bucket:
         username: Administrator
-        password: Berk.99sg
+        password: password
         name: EntityManagement
